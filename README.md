@@ -21,12 +21,10 @@ Desenvolvedora Front-End em formação | Analista de Dados com mais de 15 anos d
 ---
 
 ### 📊 Dados e Análise
-- *Em construção*
+- *[visao-geral-mercado-telecom](https://github.com/Tucka-Cabral/visao-geral-mercado-telecom)*  
+  *Projeto desenvolvido em Power BI com base em dados públicos disponibilizados pela ANATEL e IBGE, com objetivo de demonstrar as possibilidades de análise e ETL que são possíveis para essa ferramenta poderosa.*
 
 <!--
-- *[nome-do-repositorio](link)*  
-  *Descrição curta do projeto: automação, dashboard, Power BI, etc.*
-
 *(Aqui você pode listar projetos com Power BI, SQL, Excel VBA ou scripts de análise.)*
 -->
 
@@ -51,17 +49,3 @@ Sou graduada em Administração, pós-graduada em Gestão de Pessoas, e hoje est
 
 > Obrigada por visitar meu GitHub 💛
 
-<!--
-**Tucka-Cabral/Tucka-Cabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
