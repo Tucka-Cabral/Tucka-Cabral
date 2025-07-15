@@ -21,7 +21,7 @@ Desenvolvedora Front-End em formação | Analista de Dados com mais de 15 anos d
 ---
 
 ### 📊 Dados e Análise
-- *[visao-geral-mercado-telecom](https://github.com/Tucka-Cabral/visao-geral-mercado-telecom)*  
+- *[Dashboard Power BI – Panorama do Mercado de Telefonia Móvel](https://github.com/Tucka-Cabral/visao-geral-mercado-telecom)*  
   *Projeto desenvolvido em Power BI com base em dados públicos disponibilizados pela ANATEL e IBGE, com objetivo de demonstrar as possibilidades de análise e ETL que são possíveis para essa ferramenta poderosa.*
 
 <!--
