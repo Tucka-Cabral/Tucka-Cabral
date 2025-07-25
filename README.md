@@ -16,7 +16,7 @@ Desenvolvedora Front-End em formação | Analista de Dados com mais de 15 anos d
 
 ### 💻 Desenvolvimento Front-End
 
-- [Absolute Garden](https://github.com/Tucka-Cabral/Absolute_Garden)
+- [Absolute Garden](https://github.com/Tucka-Cabral/Absolute_Garden)  
   *Projeto de portfólio pessoal e profissional desenvolvido com foco em front-end, design centrado no usuário, com HTML, CSS, JS e bootstrap.*
   
 - [Absolute Garden Bijuterias](https://github.com/Tucka-Cabral/AbsoluteGardenBijus)  
