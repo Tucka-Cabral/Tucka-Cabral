@@ -15,9 +15,19 @@ Desenvolvedora Front-End em formação | Analista de Dados com mais de 15 anos d
 
 
 ### 💻 Desenvolvimento Front-End
-- [Absolute Garden Bijus](https://github.com/Tucka-Cabral/AbsoluteGardenBijus)  
+
+- [Absolute Garden](https://github.com/Tucka-Cabral/Absolute_Garden)
+  *Projeto de portfólio pessoal e profissional desenvolvido com foco em front-end, design centrado no usuário, com HTML, CSS, JS e bootstrap.*
+  
+- [Absolute Garden Bijuterias](https://github.com/Tucka-Cabral/AbsoluteGardenBijus)  
   *Projeto pessoal com HTML, CSS, JS e Bootstrap para divulgação de bijuterias e treino prático de layout e interatividade.*
 
+- [Challenge Alura de Criptografia](https://github.com/Tucka-Cabral/Challenge-Criptografia)  
+  *Projeto pessoal com HTML, CSS e JS para criar uma aplicação de criptografia. Feito para atender um desafio no curso ONE Front-End da Alura.*
+
+- [Jogo Secreto](https://github.com/Tucka-Cabral/jogo-numero-secreto)  
+  *Projeto pessoal com HTML, CSS e JS para criar um jogo que escolha um número aleatório para que o jogador descubra. Feito durante no curso da Alura.*
+  
 ---
 
 ### 📊 Dados e Análise
@@ -43,7 +53,7 @@ Sou graduada em Administração, pós-graduada em Gestão de Pessoas, e hoje est
 ## 📬 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/thais-cabral1)  
-[![Portfolio](https://img.shields.io/badge/-Meu%20Portf%C3%B3lio-%23c47d9d)](https://www.absolutegarden.com.br)
+[![Portfolio](https://img.shields.io/badge/-Meu%20Portf%C3%B3lio-%23c47d9d)](https://tucka-cabral.github.io/Absolute_Garden/)
 
 ---
 
